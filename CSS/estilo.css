@@ -1,0 +1,74 @@
+@charset "UTF-8";
+
+body{
+    
+    margin: 0;
+}
+
+header{
+    
+    width: 1000px;
+    height: 70px;
+    margin: auto;
+}
+
+nav{
+    
+    width: 290px;
+    height: 45px;
+    float:right;
+    padding: 25px 0 0 60px;
+}
+#imgLogo{
+    
+    width: 400px;
+    height: 70px;
+
+}
+
+#LogoNome{
+    color: rgb(0, 30, 255);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-style: italic;
+    padding: 10px 0 0 0;
+}
+
+/*criando um banner*/
+#banner{
+    
+    background-image:url(../IMG/banner7.jpg);
+    background-size: cover;
+    width: 100%;
+    height: 500px;
+}
+
+/*Section 01 Sobre*/
+#containerSobre{
+    
+    width: 1000px;
+    height: 400px;
+    margin: auto;
+}
+
+#txtSobre{
+    
+    width: 600px;
+    height: 400px;
+    float: right;
+}
+
+#imgSobre{
+    
+    width: 350px;
+    height: 400px;
+}
+
+#ajImgSobre{
+    width: 350px;
+}
+
+#QuemSomos{
+    color: rgb(0, 30, 255);
+
+
+}
