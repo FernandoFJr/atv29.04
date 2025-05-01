@@ -72,3 +72,100 @@ nav{
 
 
 }
+/*section 2= serviços*/
+
+#containerServicos{
+    background-color:rgb(240, 230, 0) ;
+    width: 100%;
+    height: 500px;
+
+}
+ #servicos{
+    /*background-color: rgb(237, 39, 72);*/
+    width: 1000px;
+    height: 500px;
+    margin: auto;
+
+ }
+
+ .qdServ{
+    /*background-color: rgb(0, 72, 255);*/
+    width: 300px;
+    height: 375px;
+    float: right;
+    margin: 75px 25px 0 0;
+ }
+
+ .imgServ{
+    /*background-color: rgb(0, 255, 0);*/
+    width: 250px;
+    height: 200px;
+    margin: 25px 0 0 25px;
+ }
+
+ #fundoimg03{
+    width: 250px;
+    height: 200px;
+
+ }
+
+ #fundoimg02{
+    width: 250px;
+    height: 200px;
+
+ }
+
+ #fundoimg01{
+    width: 250px;
+    height: 200px;
+
+ }
+
+ 
+ #containerContato{
+    /*background-color:rgb(200, 0, 240) ;*/
+    width: 1000px;
+    height: 500px;
+    margin: auto;
+ }
+
+ #contato{
+    /*background-color: aqua;*/
+    width: 650px;
+    height: 460px;
+    float: right;
+    margin: 25px 25px 0 0;
+ }
+
+ #mapa{
+    /*background-color: darkgoldenrod;*/
+    width: 250px;
+    height: 460px;
+    margin: 25px 25px 0 25px;
+    float: left;
+ }
+
+ #nmsite{
+    /*background-color: darkolivegreen;*/
+    width: 500px;
+    height: 50px;
+    margin: 10px 70px;
+    font-style: italic;
+    padding: 0px 0 0 0;
+    text-align: center;
+ }
+
+ #texto{
+    /*background-color: hotpink;*/
+    width: 550px;
+    height: 250px;
+    margin: auto;
+
+ }
+
+ #tdsdireitos{
+    /*background-color: darkcyan;*/
+    width: 550px;
+    height: 50px;
+    margin: 20px 20px 50px 50px;
+ }
